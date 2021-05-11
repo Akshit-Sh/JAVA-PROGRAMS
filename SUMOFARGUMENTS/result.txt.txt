@@ -1,2 +1,0 @@
-java SumOfArguments 19 20 13 17
-The sum of entered arguments is : 69
