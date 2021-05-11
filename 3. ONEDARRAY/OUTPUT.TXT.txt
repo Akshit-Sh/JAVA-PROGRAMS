@@ -1,0 +1,6 @@
+Enter size of the array : 4
+Enter array elements : 10 20 30 40
+The entered array is : 
+10 20 30 40 
+After adding 5 to each element : 
+15 25 35 45 

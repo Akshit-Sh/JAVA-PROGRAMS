@@ -1,0 +1,2 @@
+Enter the number to find its factorial : 12
+The factorial of the entered number is : 479001600
